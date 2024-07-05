@@ -1,0 +1,21 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+button{
+    display: block;
+    background-color: chocolate;
+    text-align: center;
+}
+div{
+    margin: 0 auto;
+    display: block;
+    align-items: center;
+    padding-left: 200px;
+h1{
+    color: aliceblue;
+}
+}
+body{
+    background-color:black
+}
